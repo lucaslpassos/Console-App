@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\app-simples\app-simples\obj\Debug\net6.0\app-simples.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\app-simples\app-simples\obj\Debug\net6.0\app-simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\app-simples\app-simples\obj\Debug\net6.0\app-simples.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\app-simples\app-simples\obj\Debug\net6.0\app-simples.AssemblyInfo.cs
+C:\Users\lucas\source\repos\app-simples\app-simples\obj\Debug\net6.0\app-simples.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\app-simples\app-simples\bin\Debug\net6.0\app-simples.exe
+C:\Users\lucas\source\repos\app-simples\app-simples\bin\Debug\net6.0\app-simples.deps.json
+C:\Users\lucas\source\repos\app-simples\app-simples\bin\Debug\net6.0\app-simples.runtimeconfig.json
+C:\Users\lucas\source\repos\app-simples\app-simples\bin\Debug\net6.0\app-simples.dll
+C:\Users\lucas\source\repos\app-simples\app-simples\bin\Debug\net6.0\app-simples.pdb
+C:\Users\lucas\source\repos\app-simples\app-simples\obj\Debug\net6.0\app-simples.dll
+C:\Users\lucas\source\repos\app-simples\app-simples\obj\Debug\net6.0\refint\app-simples.dll
+C:\Users\lucas\source\repos\app-simples\app-simples\obj\Debug\net6.0\app-simples.pdb
+C:\Users\lucas\source\repos\app-simples\app-simples\obj\Debug\net6.0\app-simples.genruntimeconfig.cache
+C:\Users\lucas\source\repos\app-simples\app-simples\obj\Debug\net6.0\ref\app-simples.dll
